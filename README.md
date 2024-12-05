@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gustavebbersphilips
 - 👀 I’m interested in DevOps
-- 📫 How to reach me Teams
+- 📫 I can be reached through Teams
 
 
 <!---
